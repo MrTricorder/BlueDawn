@@ -3,44 +3,43 @@
                  xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011"
                  xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 
-  <Metadata>
-    <Identity Id="7534e337-8818-4525-bb84-55d84187af2c"
-              Version="1.7"
-              Language="en-US"
-              Publisher="Gerd Schalles" />
-    <DisplayName>MisterTricorder's Blue Dawn</DisplayName>
-    <Description xml:space="preserve">
-      MisterTricorder's Blue Dawn theme for Visual Studio 2022 and 2026.
+    <Metadata>
+        <Identity Id="7534e337-8818-4525-bb84-55d84187af2c"
+                  Version="2.0"
+                  Language="en-US"
+                  Publisher="Gerd Schalles" />
+        <DisplayName>MisterTricorder's Blue Dawn</DisplayName>
+        <Description xml:space="preserve">MisterTricorder's Blue Dawn theme for Visual Studio 2022 and 2026.
     </Description>
-    <License>Resources\LICENSE.txt</License>
-    <Icon>Resources\Icon32.png</Icon>
-    <Tags>theme</Tags>
-  </Metadata>
+        <License>Resources\LICENSE.txt</License>
+        <Icon>Resources\Icon32.png</Icon>
+        <Tags>theme</Tags>
+    </Metadata>
 
-<Installation>
-  <!-- VS 2022+ Community -->
-  <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,)">
-    <ProductArchitecture>amd64</ProductArchitecture>
-  </InstallationTarget>
+    <Installation>
+        <!-- VS 2022+ Community -->
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,)">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
 
-  <!-- VS 2022+ Professional -->
-  <InstallationTarget Id="Microsoft.VisualStudio.Professional" Version="[17.0,)">
-    <ProductArchitecture>amd64</ProductArchitecture>
-  </InstallationTarget>
-</Installation>
+        <!-- VS 2022+ Professional -->
+        <InstallationTarget Id="Microsoft.VisualStudio.Professional" Version="[17.0,)">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+    </Installation>
 
-  <Prerequisites>
-    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor"
-                  Version="[17.0,)"
-                  DisplayName="Visual Studio core editor" />
-  </Prerequisites>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor"
+                      Version="[17.0,)"
+                      DisplayName="Visual Studio core editor" />
+    </Prerequisites>
 
-  <Assets>
-    <Asset Type="Microsoft.VisualStudio.VsPackage"
-           d:Source="Project"
-           d:ProjectName="%CurrentProject%"
-           Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
-  </Assets>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage"
+               d:Source="Project"
+               d:ProjectName="%CurrentProject%"
+               Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
+    </Assets>
 
 </PackageManifest>
 
