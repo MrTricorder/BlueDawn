@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# VSIX artifacts
+*.vsix
+*.pkgdef
+
+# Temporary
+*.log
+*.tmp
+*.cache
+
+# ZIPs, Build-Versions
+*.zip

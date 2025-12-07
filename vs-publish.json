@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json.schemastore.org/vsix-publish",
+  "categories": [ "themes" ],
+  "private": false,
+  "identity": {
+    "internalName": "BlueDawn",
+    "tags": [ "theme", "color", "blue", "high-contrast" ]
+  },
+  "assetFiles": [
+    {
+      "pathOnDisk": "art/screenshot.png",
+      "targetPath": "art/screenshot.png"
+    }
+  ],
+  "overview": "README.md",
+
+  // WICHTIG: diese beiden Werte musst du später an deinen
+  // echten Marketplace-Account und dein GitHub-Repo anpassen:
+  "publisher": "Gerd Schalles",
+  "repo": "https://github.com/DEIN-GITHUB-NAME/BlueDawn"
+}
