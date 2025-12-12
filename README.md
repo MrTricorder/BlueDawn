@@ -1,4 +1,4 @@
-# MisterTricorder's Blue Dawn
+# Blue Dawn
 
 A calm, high-contrast blue theme for Visual Studio 2022 and later.
 
@@ -27,6 +27,6 @@ This project is licensed under the MIT License – see `Resources/LICENSE.txt` f
 ## Credits
 
 Originally inspired by the “Blue Steel” theme by Mads Kristensen,
-but adapted and maintained by Gerd Schalles (“Mister Tricorder”).
+adapted and maintained by Gerd Schalles (“Mister Tricorder”).
 
 „Make it so.“
