@@ -8,8 +8,8 @@
                   Version="2.0"
                   Language="en-US"
                   Publisher="Gerd Schalles" />
-        <DisplayName>MisterTricorder's Blue Dawn</DisplayName>
-        <Description xml:space="preserve">MisterTricorder's Blue Dawn theme for Visual Studio 2022 and 2026.
+        <DisplayName>Blue Dawn</DisplayName>
+        <Description xml:space="preserve">Mister Tricorder's Blue Dawn Theme for Visual Studio 2022 and 2026.
     </Description>
         <License>Resources\LICENSE.txt</License>
         <Icon>Resources\Icon32.png</Icon>

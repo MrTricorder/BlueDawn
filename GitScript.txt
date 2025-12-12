@@ -1,4 +1,4 @@
 cd C:\Users\schal\Documents\_MyProjects\BlueDawn
 git add .
-git commit -m "Prepare BlueDawn 2.0 release"
+git commit -m "Latest Version"
 git push
