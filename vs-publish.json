@@ -8,12 +8,16 @@
   },
   "assetFiles": [
     {
-      "pathOnDisk": "art/screenshot.png",
-      "targetPath": "art/screenshot.png"
+      "pathOnDisk": "assets/screenshot1.png",
+      "targetPath": "assets/screenshot1.png"
+    },
+    {
+      "pathOnDisk": "assets/screenshot2.png",
+      "targetPath": "assets/screenshot2.png"
     }
   ],
   "overview": "README.md",
-
   "publisher": "Gerd Schalles",
   "repo": "https://github.com/MrTricorder/BlueDawn"
 }
+

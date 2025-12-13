@@ -21,7 +21,6 @@ namespace BlueDawn
             IProgress<ServiceProgressData> progress)
         {
             await base.InitializeAsync(cancellationToken, progress);
-            // Kein weiterer Code nötig – das Theme wird über CustomTheme.pkgdef registriert.
         }
     }
 }
