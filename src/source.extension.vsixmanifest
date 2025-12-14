@@ -8,12 +8,12 @@
                   Version="2.0"
                   Language="en-US"
                   Publisher="Gerd Schalles" />
-        <DisplayName>Blue Dawn</DisplayName>
-        <Description xml:space="preserve">Blue Dawn Theme for Visual Studio 2022 and 2026.
+        <DisplayName>Mister Tricorder's Blue Dawn</DisplayName>
+        <Description xml:space="preserve">Mister Tricorder's Blue Dawn Theme for Visual Studio 2022 and 2026.
     </Description>
         <License>Resources\LICENSE.txt</License>
         <Icon>Resources\Icon32.png</Icon>
-        <Tags>theme</Tags>
+        <Tags>theme, blue, high-contrast, accessibility, mister-tricorde</Tags>
     </Metadata>
 
     <Installation>

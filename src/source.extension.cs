@@ -8,9 +8,9 @@ namespace BlueDawn
 {
     [PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
     [InstalledProductRegistration(
-        "BlueDawn",
-        "Soft, calm blue theme with high-contrast borders.",
-        "1.7")]
+        "Mister Tricorder's Blue Dawn",
+        "Calm, high-contrast blue theme with darker framing for better focus.",
+        "2.0")]
     [Guid(PackageGuidString)]
     public sealed class BlueDawnPackage : AsyncPackage
     {

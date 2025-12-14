@@ -3,8 +3,8 @@
   "categories": [ "themes" ],
   "private": false,
   "identity": {
-    "internalName": "BlueDawn",
-    "tags": [ "theme", "color", "blue", "high-contrast" ]
+		"internalName": "MisterTricorder.BlueDawn",
+		"tags": [ "theme", "color", "blue", "high-contrast", "mister-tricorder" ]
   },
   "assetFiles": [
     {
