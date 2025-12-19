@@ -5,7 +5,7 @@
 
     <Metadata>
         <Identity Id="7534e337-8818-4525-bb84-55d84187af2c"
-                  Version="2.0"
+                  Version="2.0.1"
                   Language="en-US"
                   Publisher="Gerd Schalles" />
         <DisplayName>Mister Tricorder's Blue Dawn</DisplayName>
@@ -13,7 +13,7 @@
     </Description>
         <License>Resources\LICENSE.txt</License>
         <Icon>Resources\Icon32.png</Icon>
-        <Tags>theme, blue, high-contrast, accessibility, mister-tricorde</Tags>
+        <Tags>theme, blue, high-contrast, accessibility, mister-tricorder</Tags>
     </Metadata>
 
     <Installation>
