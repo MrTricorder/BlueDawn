@@ -1,8 +1,8 @@
-# Blue Dawn
+# Mister Tricorder's Blue Dawn
 
 A calm, high-contrast blue theme for Visual Studio 2022 and later.
 
-Blue Dawn is designed to reduce eye strain while keeping focus and structure
+Mister Tricorder's Blue Dawn is designed to reduce eye strain while keeping focus and structure
 clearly visible. It uses soft blue surfaces combined with darker framing and
 high-contrast accents.
 
@@ -11,10 +11,10 @@ high-contrast accents.
 ## Screenshots
 
 ### Editor & Focused Content
-![Blue Dawn – Editor](assets/screenshot1.png)
+![Mister Tricorder's Blue Dawn – Editor](assets/screenshot1.png)
 
 ### Tool Windows & Layout
-![Blue Dawn – Tool Windows](assets/screenshot2.png)
+![Mister Tricorder's Blue Dawn – Tool Windows](assets/screenshot2.png)
 
 ---
 
@@ -34,7 +34,7 @@ high-contrast accents.
 2. Open it with Visual Studio 2022 or 2026 (double-click).
 3. Go to  
    **Tools → Options → Environment → General**
-4. Select **“Blue Dawn”** as the color theme.
+4. Select **“Mister Tricorder's Blue Dawn”** as the color theme.
 
 ---
 
@@ -54,8 +54,6 @@ See `Resources/LICENSE.txt` for details.
 ---
 
 ## Credits
-
-Originally inspired by the *Blue Steel* theme by Mads Kristensen.
 
 Adapted, refined, and maintained by **Mister Tricorder**.
 
