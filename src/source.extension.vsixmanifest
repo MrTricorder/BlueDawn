@@ -5,7 +5,7 @@
 
   <Metadata>
     <Identity Id="7534e337-8818-4525-bb84-55d84187af2c"
-              Version="2.0.2"
+              Version="2.0.3"
               Language="en-US"
               Publisher="Mister Tricorder" />
     <DisplayName>Mister Tricorder's Blue Dawn</DisplayName>
@@ -17,16 +17,19 @@
   </Metadata>
 
   <Installation>
-    <!-- VS 2022+ Community -->
-    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,)">
-      <ProductArchitecture>amd64</ProductArchitecture>
-    </InstallationTarget>
+  <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,)">
+    <ProductArchitecture>amd64</ProductArchitecture>
+  </InstallationTarget>
 
-    <!-- VS 2022+ Professional -->
-    <InstallationTarget Id="Microsoft.VisualStudio.Professional" Version="[17.0,)">
-      <ProductArchitecture>amd64</ProductArchitecture>
-    </InstallationTarget>
-  </Installation>
+  <InstallationTarget Id="Microsoft.VisualStudio.Professional" Version="[17.0,)">
+    <ProductArchitecture>amd64</ProductArchitecture>
+  </InstallationTarget>
+
+  <!-- optional -->
+  <InstallationTarget Id="Microsoft.VisualStudio.Enterprise" Version="[17.0,)">
+    <ProductArchitecture>amd64</ProductArchitecture>
+  </InstallationTarget>
+</Installation>
 
   <Prerequisites>
     <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor"
